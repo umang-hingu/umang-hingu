@@ -1,0 +1,213 @@
+
+    <svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .neural-node circle { animation: pulseNode 3s infinite alternate; }
+        .tech-link { animation: dashLink 10s linear infinite; stroke-dasharray: 6 6; }
+        .center-link { opacity: 0.5; }
+        .node-label { opacity: 0.9; }
+        @keyframes pulseNode {
+          0% { filter: drop-shadow(0 0 2px rgba(88,166,255,0.5)); transform: scale(1); }
+          100% { filter: drop-shadow(0 0 8px rgba(88,166,255,1)); transform: scale(1.2); }
+        }
+        @keyframes dashLink {
+          to { stroke-dashoffset: -100; }
+        }
+      </style>
+      <rect width="1000" height="600" fill="#0d1117" />
+      
+      <text x="20" y="40" font-family="monospace" fill="#8b949e" font-size="14">&gt; SYSTEM_ARCHITECTURE_TREE</text>
+      
+      <g id="links-layer"><line class="neural-link center-link" x1="500" y1="300" x2="300" y2="150" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 80, 100 80" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 108, 100 108" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 136, 100 136" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 164, 100 164" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 192, 100 192" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 150 C 200 150, 200 220, 100 220" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><line class="neural-link center-link" x1="500" y1="300" x2="300" y2="300" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 300 300 C 200 300, 200 244, 100 244" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 300 C 200 300, 200 272, 100 272" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 300 C 200 300, 200 300, 100 300" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 300 C 200 300, 200 328, 100 328" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 300 C 200 300, 200 356, 100 356" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><line class="neural-link center-link" x1="500" y1="300" x2="300" y2="450" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 300 450 C 200 450, 200 394, 100 394" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 450 C 200 450, 200 422, 100 422" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 450 C 200 450, 200 450, 100 450" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 450 C 200 450, 200 478, 100 478" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 300 450 C 200 450, 200 506, 100 506" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><line class="neural-link center-link" x1="500" y1="300" x2="700" y2="150" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 700 150 C 800 150, 800 108, 900 108" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 150 C 800 150, 800 136, 900 136" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 150 C 800 150, 800 164, 900 164" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 150 C 800 150, 800 192, 900 192" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><line class="neural-link center-link" x1="500" y1="300" x2="700" y2="300" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 216, 900 216" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 244, 900 244" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 272, 900 272" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 300, 900 300" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 328, 900 328" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 356, 900 356" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 300 C 800 300, 800 384, 900 384" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><line class="neural-link center-link" x1="500" y1="300" x2="700" y2="450" stroke="#30363d" stroke-width="2" /><path class="neural-link tech-link" d="M 700 450 C 800 450, 800 408, 900 408" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 450 C 800 450, 800 436, 900 436" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 450 C 800 450, 800 464, 900 464" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /><path class="neural-link tech-link" d="M 700 450 C 800 450, 800 492, 900 492" fill="none" stroke="#58a6ff" opacity="0.4" stroke-width="1.5" /></g>
+      <g id="nodes-layer">
+      <g class="neural-node" transform="translate(300, 150)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="-16" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">Frontend</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 80)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">React</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 108)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Next.js</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 136)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">TypeScript</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 164)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">JavaScript</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 192)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Angular</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 220)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Vue.js</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(300, 300)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="-16" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">Backend</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 244)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Node.js</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 272)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Express</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 300)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">NestJS</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 328)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">REST</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 356)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">GraphQL</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(300, 450)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="-16" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">Data</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 394)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">PostgreSQL</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 422)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">MongoDB</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 450)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Mongoose</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 478)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">TypeORM</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(100, 506)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="-12" y="4" text-anchor="end" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Firebase</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(700, 150)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="16" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">Mobile</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 108)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Flutter</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 136)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Dart</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 164)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Android</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 192)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Kotlin</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(700, 300)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="16" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">Engineering</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 216)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Docker</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 244)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">CI/CD</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 272)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Micro Frontends</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 300)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Storybook</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 328)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">AWS</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 356)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Puppeteer</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 384)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Selenium</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(700, 450)">
+        <circle r="8" fill="#8957e5" />
+        <text class="node-label" x="16" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="14" font-weight="bold">AI</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 408)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">LLM APIs</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 436)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">OpenAI API</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 464)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">Cursor</text>
+      </g>
+    
+      <g class="neural-node" transform="translate(900, 492)">
+        <circle r="4" fill="#58a6ff" />
+        <text class="node-label" x="12" y="4" text-anchor="start" fill="#c9d1d9" font-family="monospace" font-size="12" font-weight="normal">GitHub Copilot</text>
+      </g>
+    </g>
+      
+      <!-- Central Core -->
+      <circle cx="500" cy="300" r="20" fill="#2ea043" class="neural-node" />
+      <circle cx="500" cy="300" r="30" fill="transparent" stroke="#2ea043" stroke-width="1" opacity="0.5" class="neural-node" />
+      <text x="500" y="350" text-anchor="middle" font-family="monospace" fill="#2ea043" font-size="16" font-weight="bold">CORE_MIND</text>
+    </svg>
+  
