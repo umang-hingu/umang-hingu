@@ -5,6 +5,24 @@
 </p>
 
 <p align="center">
+  <img src="./assets/telemetry.svg" alt="Career Telemetry" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/neural-map.svg" alt="Neural Tech Map" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/selected-systems.svg" alt="Selected Systems" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/mission-control.svg" alt="Umang Hingu mission control dashboard" width="100%">
+</p>
+
+---
+
+<p align="center">
   <a href="https://umang.umikflow.com">PORTFOLIO</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/umang-hingu">LINKEDIN</a> &nbsp;•&nbsp;
   <a href="https://github.com/umang-hingu">GITHUB</a> &nbsp;•&nbsp;
@@ -19,18 +37,6 @@
   <code>● COLLABORATING</code>
 </p>
 
----
-
-## `> mission_control`
-
-<p align="center">
-  <img src="./assets/mission-control.svg" alt="Umang Hingu mission control dashboard" width="100%">
-</p>
-
----
-
-## `> whoami`
-
 **AI-Enabled Full Stack Engineer** · Senior Website Developer · Full-Stack Developer
 
 I build and lead software products from **idea → architecture → implementation → production**.
@@ -40,8 +46,6 @@ My work spans SaaS platforms, enterprise applications, dashboards, web/mobile pr
 **6+ years** · **50+ projects delivered** · **10+ countries served** · **30+ clients**
 
 ---
-
-## `> currently_building`
 
 ### 🏥 MediCore HMS
 
@@ -57,8 +61,6 @@ Document Management System for Foxit.
 
 ---
 
-## `> selected_work`
-
 | PROJECT              | FOCUS                                                    | STACK                                          |
 | -------------------- | -------------------------------------------------------- | ---------------------------------------------- |
 | **Foxit DMS**        | DMS portal, Agreements module & Storybook infrastructure | React · Next.js · Tailwind · Module Federation |
@@ -69,8 +71,6 @@ Document Management System for Foxit.
 | **MeeraShantivanam** | Real Estate Project Booking/Management Website           | Next.js · React · Tailwind                     |
 
 ---
-
-## `> engineering`
 
 ### Frontend
 
@@ -97,8 +97,6 @@ Document Management System for Foxit.
 `LLM APIs` `OpenAI API` `Cursor` `GitHub Copilot`
 
 ---
-
-## `> timeline`
 
 ```text
 2017 ───────────────────────────────────────────────► NOW
@@ -129,23 +127,9 @@ Building products, platforms and systems that matter.
 
 ---
 
-## `> philosophy`
-
 > **Good software isn't just code. It's a solution to a real problem.**
 
 I care about product thinking, maintainable architecture, developer experience, performance, and shipping software people can actually use.
-
----
-
-## `> tech_constellation`
-
-<p align="center">
-  <img src="./assets/neural-map.svg" alt="Neural Tech Map" width="100%">
-</p>
-
----
-
-## `> let's_connect`
 
 **Building something ambitious? Let's talk.**
 
@@ -154,7 +138,7 @@ I care about product thinking, maintainable architecture, developer experience, 
 💼 **upwork** https://www.upwork.com/freelancers/~01946649ba4f34f198?mp_source=share
 🏢 **HVG Infotech:** https://www.hvginfotech.com  
 🐙 **GitHub:** https://github.com/umang-hingu (You are here 📍 already)
-📅 **calender**: https://zcal.co/umanghingu/30min
+📞 **Book A Call**: https://zcal.co/umanghingu/30min
 
 <p align="center">
   <sub>Built with curiosity. Shipped with intent.</sub>
