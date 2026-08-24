@@ -4,13 +4,11 @@
   <img src="./assets/hero.svg" alt="Umang Hingu — CTO & Co-Founder, Product Engineer" width="100%">
 </p>
 
-
-
 <p align="center">
   <a href="https://umang.umikflow.com">PORTFOLIO</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/umang-hingu">LINKEDIN</a> &nbsp;•&nbsp;
   <a href="https://github.com/umang-hingu">GITHUB</a> &nbsp;•&nbsp;
-  <a href="https://www.hvginfotech.com">HVG INFOTECH</a>
+  <a href="https://www.upwork.com/freelancers/~01946649ba4f34f198?mp_source=share">UPWORK</a>
 </p>
 
 <p align="center">
@@ -33,7 +31,7 @@
 
 ## `> whoami`
 
-**CTO & Co-Founder @ HVG Infotech** · Product Engineer · Full-Stack Developer
+**AI-Enabled Full Stack Engineer** · Senior Website Developer · Full-Stack Developer
 
 I build and lead software products from **idea → architecture → implementation → production**.
 
@@ -51,41 +49,51 @@ A comprehensive hospital management platform designed to streamline healthcare o
 
 `Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
+### 📁 Foxit DMS
+
+Document Management System for Foxit.
+
+`Next.js` `Tailwind CSS` `Module Federation` `Storybook`
+
 ---
 
 ## `> selected_work`
 
-| PROJECT | FOCUS | STACK |
-|---|---|---|
-| **Foxit DMS** | DMS portal, Agreements module & Storybook infrastructure | React · Next.js · Tailwind · Module Federation |
-| **VerifyTrusted** | Review aggregation SaaS, widgets & dashboards | Next.js · React · TypeScript · Google APIs |
-| **Hero-Pages** | Configuration-driven multi-site website platform | Next.js · React · TypeScript |
-| **H-Line Mfg** | Industrial rig booking, repair scheduling & operations | Next.js · React · Node.js · MongoDB |
-| **Doctoque** | Legal practice management SaaS | Next.js · React · SaaS |
-| **GoFintel** | Financial intelligence & AML analysis | React · TypeScript · D3.js · Docker |
-| **Kalshi** | Event-based trading exchange interface | Next.js · TypeScript · Micro Frontends |
-| **FairPrice** | Digital gift voucher e-commerce | Next.js · React · Tailwind |
+| PROJECT              | FOCUS                                                    | STACK                                          |
+| -------------------- | -------------------------------------------------------- | ---------------------------------------------- |
+| **Foxit DMS**        | DMS portal, Agreements module & Storybook infrastructure | React · Next.js · Tailwind · Module Federation |
+| **VerifyTrusted**    | Review aggregation SaaS, widgets & dashboards            | Next.js · React · TypeScript · Google APIs     |
+| **Hero-Pages**       | Configuration-driven multi-site website platform         | Next.js · React · TypeScript                   |
+| **H-Line Mfg**       | Industrial rig booking, repair scheduling & operations   | Next.js · React · Node.js · MongoDB            |
+| **Doctoque**         | Legal practice management SaaS                           | Next.js · React · SaaS                         |
+| **MeeraShantivanam** | Real Estate Project Booking/Management Website           | Next.js · React · Tailwind                     |
 
 ---
 
 ## `> engineering`
 
 ### Frontend
+
 `React` `Next.js` `TypeScript` `JavaScript` `Angular` `Vue.js`
 
 ### Backend & APIs
+
 `Node.js` `Express` `NestJS` `REST` `GraphQL`
 
 ### Data
+
 `PostgreSQL` `MongoDB` `Mongoose` `TypeORM` `Firebase`
 
 ### Mobile & Automation
+
 `Flutter` `Dart` `Android` `Kotlin` `Puppeteer` `Selenium`
 
 ### Engineering & Delivery
+
 `Docker` `CI/CD` `Micro Frontends` `Storybook` `Testing` `AWS`
 
 ### AI-enabled development
+
 `LLM APIs` `OpenAI API` `Cursor` `GitHub Copilot`
 
 ---
@@ -129,23 +137,25 @@ I care about product thinking, maintainable architecture, developer experience, 
 
 ---
 
+## `> tech_constellation`
+
+<p align="center">
+  <img src="./assets/neural-map.svg" alt="Neural Tech Map" width="100%">
+</p>
+
+---
+
 ## `> let's_connect`
 
 **Building something ambitious? Let's talk.**
 
 🌐 **Portfolio:** https://umang.umikflow.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/umang-hingu  
+💼 **upwork** https://www.upwork.com/freelancers/~01946649ba4f34f198?mp_source=share
 🏢 **HVG Infotech:** https://www.hvginfotech.com  
-🐙 **GitHub:** https://github.com/umang-hingu
+🐙 **GitHub:** https://github.com/umang-hingu (You are here 📍 already)
+📅 **calender**: https://zcal.co/umanghingu/30min
 
 <p align="center">
   <sub>Built with curiosity. Shipped with intent.</sub>
-</p>
-
----
-
-## `> tech_constellation`
-
-<p align="center">
-  <img src="./assets/neural-map.svg" alt="Neural Tech Map" width="100%">
 </p>
