@@ -137,7 +137,7 @@ I care about product thinking, maintainable architecture, developer experience, 
 💼 **LinkedIn:** https://www.linkedin.com/in/umang-hingu  
 💼 **upwork** https://www.upwork.com/freelancers/~01946649ba4f34f198?mp_source=share
 🏢 **HVG Infotech:** https://www.hvginfotech.com  
-🐙 **GitHub:** https://github.com/umang-hingu (You are here 📍 already)
+🐙 **GitHub:** https://github.com/umang-hingu
 📞 **Book A Call**: https://zcal.co/umanghingu/30min
 
 <p align="center">
