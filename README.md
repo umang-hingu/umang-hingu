@@ -1,5 +1,3 @@
-# UMANG HINGU
-
 <p align="center">
   <img src="./assets/hero.svg" alt="Umang Hingu — CTO & Co-Founder, Product Engineer" width="100%">
 </p>
